@@ -1,2 +1,3 @@
 # deep_learning
-Python, Numpy, Tensorflow
+This Repository is for learning <b> Python, Numpy, Tensorflow.</b><br>
+
